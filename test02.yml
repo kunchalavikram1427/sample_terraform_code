@@ -1,1 +1,15 @@
-securitypillar: L255
+---
+business-group: platform-fundamentals:PHE
+components: []
+email-director: Jonathan.Leghart@sony.com
+email-manager: Kevin.Crislip@sony.com
+email-tech-contact: sie-ps-systems-operations@am.sony.com
+scrum-team: SCIFI
+security-classification: confidential
+security-compliance: na
+security-control-colo-waf: ''
+security-control-edge-waf: ''
+security-criticalsystem: 'true'
+security-pillar: navigator
+security-publiclyaccessible: pri3
+service-name: egress-firewall
