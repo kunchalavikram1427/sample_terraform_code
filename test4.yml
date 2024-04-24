@@ -1,0 +1,10 @@
+---
+scrum-team: SCIFI
+security-classification: confidential
+security-compliance: na
+security-control-colo-waf: ''
+security-control-edge-waf: ''
+security-criticalsystem: 'true'
+security-pillar: kamaji
+security-publiclyaccessible: pri3
+service-name: egress-firewall
