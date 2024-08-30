@@ -1,4 +1,4 @@
-# sample_terraform_code
+# Sample Terraform Code
 ## Youtube Video URL
 [How to Use Terraform and Jenkins to Automate Infrastructure Setup](https://youtu.be/kIDiP3Unj7Y)
 </br>
